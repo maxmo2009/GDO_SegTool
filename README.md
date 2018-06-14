@@ -1,1 +1,1 @@
-GDO_SegTool
+GDO_Seg
